@@ -1,0 +1,8 @@
+n = 5
+for each in range(n, 0, -1):                # 5,4,3,2,1  therefore the loop will pick up 5 first.
+    for every in range(-n+1, n):            # -4,-3,-2,-1,0,1,2,3,4,5
+        if(n - abs(every) <= each):         # here, abs(every) is 4, so 5-4 <= 5 or 1 <= 5
+            print(1 + abs(every), end="")   # 1 + 4 = 5
+        else:
+            print(" ", end="")
+    print("")
