@@ -4,13 +4,13 @@
 # Note:
 
 * below, range(n) will provide starting 5 values when print(each) is called.
-'''
+
 n = 5
 
 for each in range(n):   
 
     print(each)
-'''
+
 
 # Note:
 
