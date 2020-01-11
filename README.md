@@ -1,6 +1,6 @@
 # Patterns-level-2
 
-# to understand codes in 'patterns level 2' lets first revise some basic concepts.
+# To understand codes in 'Patterns level 2' lets first revise some basic concepts.
 # Note:
 
 * below, range(n) will provide starting 5 values when print(each) is called.
