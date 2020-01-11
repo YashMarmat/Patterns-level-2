@@ -23,7 +23,7 @@ for each in range(n, 0, -1):
 
 # Note:
 
-* range(-n+1,n), first the loop will run '-n+1', which results in: -5+1 = -4, -4+1 = -3.....till 0. 
+* range(-n+1,n), first the loop will run '-n+1', which results in: -5+1 = -4, -4+1 = -3....till 0. 
 * after this, loop will run 'n', which results in 0,1,2,3,4.
 
 n = 5
