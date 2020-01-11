@@ -1,0 +1,3 @@
+n = 4
+for each in range(-n, n+1):   # values will go from negative to positive side.
+    print(abs(each), end=" ")
