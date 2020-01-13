@@ -3,3 +3,11 @@ for each in range(1, n+1):   # 1 will be the first value picked up by loop.
     for every in range(each, each+1):  # 1,2,3... , first outcome = (1, 2) means loop will run just one time.
         print(chr(every+96)*every, end="")
     print("")
+
+# output:
+
+a
+bb
+ccc
+dddd
+eeeee
