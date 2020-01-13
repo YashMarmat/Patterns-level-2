@@ -3,3 +3,12 @@ for each in range(1, n+1):   # 1
     for every in range(1, each+1):      # 1,2,3... , first outcome = (1, 2) means loop will run just one time.
         print(chr(every+64), end="")
     print("")
+
+# output:
+
+A
+AB
+ABC
+ABCD
+ABCDE
+
