@@ -5,3 +5,12 @@ for each in range(1, n+1):              # this loop will complete only when belo
         print((every-1) % n+1, end="")
     print("")                           # this just like print("\n"), here i avoided "\n" in order to decrease line space.
                                         # in other words, its just a line break
+
+# output:
+
+12345
+23451
+34512
+45123
+51234
+
