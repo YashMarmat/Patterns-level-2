@@ -6,3 +6,11 @@ for each in range(n, 0, -1):                # 5,4,3,2,1  therefore the loop will
         else:
             print(" ", end="")
     print("")
+
+# output:
+
+543212345
+5432 2345
+543   345
+54     45
+5       5
